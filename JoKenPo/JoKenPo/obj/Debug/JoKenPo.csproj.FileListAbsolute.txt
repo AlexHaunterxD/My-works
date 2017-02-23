@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe.config
+C:\Users\Aluno\Desktop\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe
+C:\Users\Aluno\Desktop\JoKenPo\JoKenPo\bin\Debug\JoKenPo.pdb
+C:\Users\Aluno\Desktop\JoKenPo\JoKenPo\obj\Debug\JoKenPo.exe
+C:\Users\Aluno\Desktop\JoKenPo\JoKenPo\obj\Debug\JoKenPo.pdb
+C:\Users\Pichau\OneDrive\1º Período\Oficina de Jogos I\JoKenPo[1]\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe.config
+C:\Users\Pichau\OneDrive\1º Período\Oficina de Jogos I\JoKenPo[1]\JoKenPo\JoKenPo\obj\Debug\JoKenPo.exe
+C:\Users\Pichau\OneDrive\1º Período\Oficina de Jogos I\JoKenPo[1]\JoKenPo\JoKenPo\obj\Debug\JoKenPo.pdb
+C:\Users\Pichau\OneDrive\1º Período\Oficina de Jogos I\JoKenPo[1]\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe
+C:\Users\Pichau\OneDrive\1º Período\Oficina de Jogos I\JoKenPo[1]\JoKenPo\JoKenPo\bin\Debug\JoKenPo.pdb
+C:\Users\Pichau\OneDrive\1º Período\Oficina de Jogos I\JoKenPo[1]\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Source\Repos\My-works\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe.config
+C:\Users\Pichau\Source\Repos\My-works\JoKenPo\JoKenPo\obj\Debug\JoKenPo.exe
+C:\Users\Pichau\Source\Repos\My-works\JoKenPo\JoKenPo\obj\Debug\JoKenPo.pdb
